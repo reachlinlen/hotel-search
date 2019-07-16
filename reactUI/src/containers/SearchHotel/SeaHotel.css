@@ -1,0 +1,34 @@
+
+div.sea-page {
+  margin-left: 5vw;
+}
+
+div.hotelsea {
+  margin-top: 2vh;
+  display: flex;
+}
+
+div.hotelsea input {
+  float: left;
+  width: 50%;
+  border: 0.25vh solid grey;
+}
+
+div.hotelsea button.button {
+  width: 20%;
+  padding: 10px 10px 15px 10px;
+  background: blue;
+  color: white;
+  font-size: 2vh;
+  border: 0.25vh solid grey;
+}
+
+div.hotelsea img.icon {
+  width: 5vh;
+  height: 5vh;
+  color: white;
+}
+
+div.sea-res {
+  margin-top: 2vh;
+}
