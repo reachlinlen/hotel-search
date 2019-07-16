@@ -1,2 +1,2 @@
 # hotel-search
-Traveller searchng for a Hotel
+Traveller searching for a Hotel
